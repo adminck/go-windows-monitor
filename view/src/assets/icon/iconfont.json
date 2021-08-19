@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4061616",
+      "name": "内存",
+      "font_class": "neicun",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "7721771",
+      "name": "cpu",
+      "font_class": "cpu",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "9412210",
+      "name": "systemInfo",
+      "font_class": "systemInfo",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "12347898",
+      "name": "文件管理",
+      "font_class": "bushu",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "12398383",
+      "name": "网络使用",
+      "font_class": "wangluoshiyong",
+      "unicode": "e507",
+      "unicode_decimal": 58631
+    },
+    {
+      "icon_id": "15182453",
+      "name": "网络诊断",
+      "font_class": "wangluozhenduan",
+      "unicode": "e73e",
+      "unicode_decimal": 59198
+    },
+    {
+      "icon_id": "15188857",
+      "name": "服务管理",
+      "font_class": "fuwuguanli",
+      "unicode": "e6c5",
+      "unicode_decimal": 59077
+    },
+    {
+      "icon_id": "15190788",
+      "name": "进程管理",
+      "font_class": "jinchengguanli",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    }
+  ]
+}
